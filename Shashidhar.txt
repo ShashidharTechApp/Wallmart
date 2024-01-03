@@ -1,1 +1,3 @@
+Hello Shahsidhar,
+I am updating the file because to know the use of cherrypick command which is used to mergethe branches with the help of commit id
 This is thallapally Shashidhar
